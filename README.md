@@ -13,6 +13,9 @@ Bibliotecas usadas: pandas, plotly-express e streamlit
 comando para rodar a app streamlit run app.py
 Atualizado github e desenvolvido no Render 
 
+App- https://sprint51.onrender.com
+
+git https://github.com/Mayjosy/sprint5
 
 
 
@@ -25,4 +28,3 @@ Atualizado github e desenvolvido no Render
 
 
 
-https://sprint51.onrender.com
